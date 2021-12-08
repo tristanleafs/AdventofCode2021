@@ -48,6 +48,3 @@ for i in amount:
 
 print(sum)
  
- 
-        
-    
